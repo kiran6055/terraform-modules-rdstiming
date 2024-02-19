@@ -47,4 +47,7 @@ variable "rds_tags" {
 
 
 
+variable "rds_secret_arn" {
+  
+}
 
